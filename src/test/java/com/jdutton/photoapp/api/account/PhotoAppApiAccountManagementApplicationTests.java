@@ -1,4 +1,4 @@
-package com.jdutton.photoapp.api.accountmanagemet;
+package com.jdutton.photoapp.api.account;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

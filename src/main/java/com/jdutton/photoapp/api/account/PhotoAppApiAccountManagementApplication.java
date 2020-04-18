@@ -1,4 +1,4 @@
-package com.jdutton.photoapp.api.accountmanagemet;
+package com.jdutton.photoapp.api.account;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
